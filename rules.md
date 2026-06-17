@@ -74,3 +74,26 @@ Se un giocatore dimentica un trigger obbligatorio, si applicano le seguenti rego
 
 Nessun giocatore puo' "saltare" la priorita' altrui o accelerare i tempi senza che tutti abbiano avuto modo di esprimersi
 
+## Punteggi e Classifica
+
+Tavolo da 4
+
+|Posizione|Punti
+|---|---
+|1|5
+|2|3
+|3|2
+|4|1
+
+Tavolo da 3
+
+|Posizione|Punti
+|---|---
+|1|4
+|2|3
+|3|1
+
+## Note Finali
+
+- il seguente regolamento puo' essere soggetto a modifiche ed integrazioni. Ogni aggiornamento verra' comunicato prima dell'inizio del torneo
+- la partecipazione al torneo implica l'accettazione integrale del regolamento
